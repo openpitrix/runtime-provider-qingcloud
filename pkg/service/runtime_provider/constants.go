@@ -12,6 +12,7 @@ zone: .*
 image_id: xenial4x64a
 image_url: https://openpitrix.pek3a.qingstor.com/image/ubuntu.tar.gz
 provider_type: vmbased
+enable: true
 `
 )
 
